@@ -1,0 +1,9 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ÿËšşÿÿÿÿ8Â«ÅÏÇ0
+m	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÷©ª8ùÙÄÏÇ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆŠñÅøÿÿÿÿ
+u	java:S116"YRename this field "purchase_Price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãöá8…òÃÏÇ0
+K
+java:S1172")Remove this unused method parameter "id".(¯ÿËšşÿÿÿÿ8ø®ÉÏÇ0
+j	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÌ×î8™ÚÄÏÇ0
+j	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÷©ª8™ÚÄÏÇ0

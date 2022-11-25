@@ -1,0 +1,33 @@
+
+g	java:S112
+"FDefine and throw a dedicated exception instead of using a generic one.(ÖÉ¤±ùÿÿÿÿ8Íòí”Ã0
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(²–¾£øÿÿÿÿ
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(÷»Ä×ûÿÿÿÿ8µ÷è”Ã0
+g	java:S112c"FDefine and throw a dedicated exception instead of using a generic one.(ÂÈ¸„üÿÿÿÿ8Å¬î”Ã0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ê§µ
+{
+java:S5996"`Remove or replace this boundary that will never match because it appears before mandatory input.(¡¾ ûÿÿÿÿ
+W
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(¡¾ ûÿÿÿÿ
+W
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(¡¾ ûÿÿÿÿ
+P
+java:S6397"5Replace this character class by the character itself.(ªàÏøşÿÿÿÿ
+W
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(ªàÏøşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ßİ½äıÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.( ­»ú
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(£†üÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(„³åû
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(Œ—¦Ïøÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(­½ï…úÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(¨“şÍ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(‹Ş‰»
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(ëÆŸ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(î°ÍÓøÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(»†Ö´úÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(Æ³Ú¶
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(›Á­€üÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+a
+java:S5998d"LRefactor this repetition that can lead to a stack overflow for large inputs.(Ÿ¢‹

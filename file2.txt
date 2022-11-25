@@ -1,0 +1,27 @@
+Dear Sir or Madam,
+Please disregard the Notice of Cancellation dated October 27, 2021. We're continuing insurance coverage without
+lapse for:
+Insured: BEATRICE BALINADO
+Policy number: GAR 045092785 001
+Description: Renters Policy
+Property address: 1200 N GATEWAY BLVD APT 2307
+How to Contact Us
+IF you have questions, please contact us using one of the following options:
+XQ Phone: In the U.S.: 210-531-USAA (8722), our mobile shortcut #8722 or 800-531-8722
+Outside the U.S.: 00-800-531-81110 (landline only)
+Thank you,
+Garrison Property and Casualty Insurance Company
+Garrison Property and Casualty Insurance Company, a subsidiary of USAA Casualty Insurance Company, is authorized to use the USAA logo, a
+registered trademark of United Services Automobile Association.
+BLTPRCND()) 6-19 134832-1021
+This policy is of USAA and the policy is cancellation policy because it contains the cancellation date line and the date is also mentioned.
+To fetch date, I have read the next line of dear sir or madam.
+“Please disregard the Notice of Cancellation dated October 27, 2021. We're continuing insurance coverage without”
+
+Now first I have separate the lines with “.” 
+Please disregard the Notice of Cancellation dated October 27, 2021.
+We're continuing insurance coverage without
+After that in first line read the date after the cancellation dated and validate that line.
+To read policy holder name, there is insured in the extracted text and that insured line contains the resident name after the : 
+Insured: BEATRICE BALINADO
+Then i will do search operation with the extracted resident name and if that name exist in DB then I will fetch the residentId, additional interest address and insured premise address and the communityId of that resident.

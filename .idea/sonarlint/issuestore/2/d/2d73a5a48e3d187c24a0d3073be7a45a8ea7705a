@@ -1,0 +1,60 @@
+
+`
+java:S1192F"JDefine a constant instead of duplicating this literal "
+orderNo:" 4 times.(÷æÌâ
+b
+java:S1192F"LDefine a constant instead of duplicating this literal "
+orderDate:" 4 times.(÷æÌâ
+b
+java:S1192F"LDefine a constant instead of duplicating this literal "
+partyName:" 4 times.(÷æÌâ
+_
+java:S1192F"IDefine a constant instead of duplicating this literal "partyId:" 4 times.(÷æÌâ
+_
+java:S1192F"IDefine a constant instead of duplicating this literal "
+price: " 4 times.(÷æÌâ
+a
+java:S1192F"KDefine a constant instead of duplicating this literal "
+orderId: " 4 times.(÷æÌâ
+b
+java:S1192F"LDefine a constant instead of duplicating this literal "
+Quantity: " 4 times.(÷æÌâ
+y
+java:S1319C"cThe type of "pModel" should be an interface such as "Map" rather than the implementation "HashMap".(êö¡ş
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êˆÿ–şÿÿÿÿ
+k	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼À«ÿøÿÿÿÿ
+l	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼À«ÿøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ûî¡…øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ë¿ëÈ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ì€ˆÇşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ’º‘ÿÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(øç×ğıÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(¹˜ò
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(è¥È®
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(åêŸÊşÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(ÀÈÀÏ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(ğÙ¡Õùÿÿÿÿ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(÷æÌâ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(¶ç®Â
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(™çÍÃ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(÷æÌâ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(¶ç®Â
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(Ê¡¦«
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(‰†¿á
+N	java:S106g"9Replace this use of System.out or System.err by a logger.(„½é˜
+g
+java:S3776p"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ğÃóS
+N	java:S106r"9Replace this use of System.out or System.err by a logger.(Õç
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(×¥Ò´şÿÿÿÿ
+N	java:S106{"9Replace this use of System.out or System.err by a logger.(÷æÌâ
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(Æ—ã„úÿÿÿÿ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(‡éĞşùÿÿÿÿ
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(÷æÌâ
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(—ü°“ÿÿÿÿÿ
+T	java:S106§"9Replace this use of System.out or System.err by a logger.(‘°üÎüÿÿÿÿ
+T	java:S106­"9Replace this use of System.out or System.err by a logger.(ÎáŸÑşÿÿÿÿ
+O	java:S106°"9Replace this use of System.out or System.err by a logger.(™Ï”º
+T	java:S106¶"9Replace this use of System.out or System.err by a logger.(¡ìòùÿÿÿÿ
+O	java:S106»"9Replace this use of System.out or System.err by a logger.(¿øß«
+T	java:S106É"9Replace this use of System.out or System.err by a logger.(—ü°“ÿÿÿÿÿ
+O	java:S106Ô"9Replace this use of System.out or System.err by a logger.(Í¸İ—

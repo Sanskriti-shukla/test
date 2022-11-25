@@ -1,0 +1,25 @@
+
+c
+java:S1192,"HDefine a constant instead of duplicating this literal "Input: " 4 times.(à“Ãûüÿÿÿÿ
+_
+java:S1192."IDefine a constant instead of duplicating this literal "Output: " 4 times.(ÌŒ¨ï
+K
+java:S6035"0Replace this alternation with a character class.(õ—Èßýÿÿÿÿ
+K
+java:S6035"0Replace this alternation with a character class.(õ—Èßýÿÿÿÿ
+K
+java:S6035"0Replace this alternation with a character class.(õ—Èßýÿÿÿÿ
+K
+java:S6035"0Replace this alternation with a character class.(õ—Èßýÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(™¨Éœ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(à“Ãûüÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(Ðÿ¦Òþÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(²ÙÃÉøÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(‚¤ÝÜøÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(óùŸî
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(†ºì¤
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(„èñÈýÿÿÿÿ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(ÆÀûý

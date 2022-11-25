@@ -1,0 +1,13 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ûåÈ÷ùÿÿÿÿ
+g
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(«‰¿Ôùÿÿÿÿ
+c	java:S100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¤ØÌ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰ÁÐÜýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ü¿òçûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÀÄû
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ƒ¸½åýÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(§¾á›

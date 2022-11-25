@@ -1,0 +1,54 @@
+
+`
+java:S1192 "JDefine a constant instead of duplicating this literal "PartyId: " 4 times.(£·¨Ë
+c
+java:S1192 "MDefine a constant instead of duplicating this literal "
+partyname: " 4 times.(£·¨Ë
+c
+java:S1192 "MDefine a constant instead of duplicating this literal "
+ContactNo: " 4 times.(£·¨Ë
+c
+java:S1192 "MDefine a constant instead of duplicating this literal "
+AccountNo: " 4 times.(£·¨Ë
+f	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÖˆä
+g	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø»­ë
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ûî¡…øÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "s".(º›ÐÉ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(à€†¡ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÏ§´
+S	java:S106"9Replace this use of System.out or System.err by a logger.(áùØ¹þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ü¤ê’
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¦²“þýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŽƒÚÃ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(° ›ƒ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(£·¨Ë
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ÆÇâÈýÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ß©‡–üÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(£·¨Ë
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(óÅ¾’þÿÿÿÿ
+W
+java:S1854@"<Remove this useless assignment to local variable "partyMap".(é¡ßéüÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(…Êˆý
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(‡Š¥—
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(ƒóÌ§þÿÿÿÿ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(ÎÀÀ¯
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(‡îï²ûÿÿÿÿ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(ºžÕ”
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(Ú®Þ–ýÿÿÿÿ
+M	java:S106d"9Replace this use of System.out or System.err by a logger.(ªóE
+h
+java:S3776l"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ã°­
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(îë‘Å
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(ÌÒîª
+N	java:S106w"9Replace this use of System.out or System.err by a logger.(£·¨Ë
+M	java:S106"9Replace this use of System.out or System.err by a logger.(å¸ÞU
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(»¬£Ö
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(£·¨Ë
+N	java:S106’"9Replace this use of System.out or System.err by a logger.(å¸ÞU
+Q
+java:S1854©":Remove this useless assignment to local variable "pModel".(œ—ò”
+O	java:S106ž"9Replace this use of System.out or System.err by a logger.(ÛÎŠ£
+T	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(ÂÅ‰Ãûÿÿÿÿ
+=	java:S131¡""Add a default case to this switch.(­Ö¹§úÿÿÿÿ

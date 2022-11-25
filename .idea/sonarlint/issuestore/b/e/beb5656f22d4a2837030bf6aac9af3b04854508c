@@ -1,0 +1,25 @@
+
+b	java:S101+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(åÑÆÏ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öº ûýÿÿÿÿ
+h	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­–Ü÷üÿÿÿÿ
+;
+java:S1659"%Declare "average" on a separate line.(Ýº¬¡
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ýÛÎê
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(Å¶áç
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(¾ùôŒùÿÿÿÿ
+l
+java:S3008,"QRename this field "String" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ú»áýÿÿÿÿ
+K
+java:S1854?"5Remove this useless assignment to local variable "s".(º›ÐÉ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ÈÃòßýÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(¦‡Šò
+L	java:S1067"9Replace this use of System.out or System.err by a logger.(ß¢
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ÊìÇÍùÿÿÿÿ
+V	java:S125>"<This block of commented-out lines of code should be removed.(ìÂ£öûÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(»Òœê
+<	java:S131C""Add a default case to this switch.(á­Ç¸üÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(¦²“þýÿÿÿÿ
+U	java:S106S"9Replace this use of System.out or System.err by a logger.(ß‚áì8ðÞÞÅ0
+E
+java:S1068,"*Remove this unused "String" private field.(•Ú»áýÿÿÿÿ

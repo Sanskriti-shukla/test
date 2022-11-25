@@ -1,0 +1,7 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¦ë²ù8Âæç”Ã0
+`
+java:S1301 "KReplace this "switch" statement by "if" statements to increase readability.(¶„æ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ê§µ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šé°¤øÿÿÿÿ
+m	java:S131 "YComplete cases by adding the missing enum constants or add a default case to this switch.(¶„æ

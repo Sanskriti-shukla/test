@@ -1,0 +1,24 @@
+
+2
+java:S1643"Use a StringBuilder instead.(ÍÖøÑ
+2
+java:S1643"Use a StringBuilder instead.(ü®úÏ
+7
+java:S1643"Use a StringBuilder instead.(‡Ñ‡·ùÿÿÿÿ
+2
+java:S1643 "Use a StringBuilder instead.(ä‚¿¸
+7
+java:S1643#"Use a StringBuilder instead.(‡Ñ‡·ùÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ì¶¼
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥¹ùÿÿÿÿ
+d
+java:S3973"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘
+S
+java:S1854"8Remove this useless assignment to local variable "str3".(£Ûêıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÇ‚ëÿÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(€¥±¬üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(üÓ³ğ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(®İ²óùÿÿÿÿ

@@ -1,0 +1,43 @@
+
+ˆ
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ƒõ˜ıÿÿÿÿ
+€
+java:S1319"eThe type of "partyMap" should be an interface such as "Map" rather than the implementation "HashMap".(ƒõ˜ıÿÿÿÿ
+~
+java:S1319"cThe type of "pModel" should be an interface such as "Map" rather than the implementation "HashMap".(ƒõ˜ıÿÿÿÿ
+{
+java:S1319"eThe type of "partyMap" should be an interface such as "Map" rather than the implementation "HashMap".(½œ×¡
+ƒ
+java:S1319
+"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(‰©ïİ
+{
+java:S1319
+"eThe type of "partyMap" should be an interface such as "Map" rather than the implementation "HashMap".(‰©ïİ
+y
+java:S1319
+"cThe type of "pModel" should be an interface such as "Map" rather than the implementation "HashMap".(‰©ïİ
+ƒ
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ä°’‚
+{
+java:S1319"eThe type of "partyMap" should be an interface such as "Map" rather than the implementation "HashMap".(ä°’‚
+y
+java:S1319"cThe type of "pModel" should be an interface such as "Map" rather than the implementation "HashMap".(ä°’‚
+ƒ
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(«ò´º
+{
+java:S1319"eThe type of "partyMap" should be an interface such as "Map" rather than the implementation "HashMap".(«ò´º
+y
+java:S1319"cThe type of "pModel" should be an interface such as "Map" rather than the implementation "HashMap".(«ò´º
+ˆ
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".( ‘ıÔûÿÿÿÿ
+€
+java:S1319"eThe type of "partyMap" should be an interface such as "Map" rather than the implementation "HashMap".( ‘ıÔûÿÿÿÿ
+~
+java:S1319"cThe type of "pModel" should be an interface such as "Map" rather than the implementation "HashMap".( ‘ıÔûÿÿÿÿ
+
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(¾” ûÿÿÿÿ8¹ÌÈ0
+‡
+java:S1319"eThe type of "partyMap" should be an interface such as "Map" rather than the implementation "HashMap".(¾” ûÿÿÿÿ8¹ÌÈ0
+…
+java:S1319"cThe type of "pModel" should be an interface such as "Map" rather than the implementation "HashMap".(¾” ûÿÿÿÿ8¹ÌÈ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆŠñÅøÿÿÿÿ

@@ -1,0 +1,30 @@
+
+
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(½‹Œøÿÿÿÿ8ƒ›ÌÈ0
+ƒ
+java:S1319"aThe type of "hMap" should be an interface such as "Map" rather than the implementation "HashMap".(½‹Œøÿÿÿÿ8ƒ›ÌÈ0
+~
+java:S1319"aThe type of "hMap" should be an interface such as "Map" rather than the implementation "HashMap".(¾õÕ¶8ÅœÌÈ0
+
+java:S1319
+"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(‹ÖÅ’ûÿÿÿÿ8ş‚ÌÈ0
+ƒ
+java:S1319
+"aThe type of "hMap" should be an interface such as "Map" rather than the implementation "HashMap".(‹ÖÅ’ûÿÿÿÿ8ş‚ÌÈ0
+
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(şìŞùÿÿÿÿ8ÌæÌÈ0
+ƒ
+java:S1319"aThe type of "hMap" should be an interface such as "Map" rather than the implementation "HashMap".(şìŞùÿÿÿÿ8ÌæÌÈ0
+Š
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Á©Ò8”ØŸÌÈ0
+~
+java:S1319"aThe type of "hMap" should be an interface such as "Map" rather than the implementation "HashMap".(Á©Ò8”ØŸÌÈ0
+
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(“ıëÆûÿÿÿÿ8ÑÉ ÌÈ0
+ƒ
+java:S1319"aThe type of "hMap" should be an interface such as "Map" rather than the implementation "HashMap".(“ıëÆûÿÿÿÿ8ÑÉ ÌÈ0
+
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ë¨Ã•øÿÿÿÿ8ü¹©ÌÈ0
+ƒ
+java:S1319"aThe type of "hMap" should be an interface such as "Map" rather than the implementation "HashMap".(ë¨Ã•øÿÿÿÿ8ü¹©ÌÈ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ûî¡…øÿÿÿÿ

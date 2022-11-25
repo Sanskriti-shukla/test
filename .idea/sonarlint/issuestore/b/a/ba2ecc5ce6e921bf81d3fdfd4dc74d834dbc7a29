@@ -1,0 +1,27 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ı–ıÿÿÿÿ
+>
+java:S16042"(Make this anonymous inner class a lambda( ½ÚÀ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûğˆïÿÿÿÿÿ
+]
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(ÁŸõü
+]
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(†©Ã©
+d
+java:S3973"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
+Z
+java:S2583"DChange this condition so that it does not always evaluate to "false"(†©Ã©
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÏİŒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûÓíÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬¸¸½
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºÍœúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(èµ±˜
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ù‹‚ß
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¢àóÄ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÉüÇ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(µÇ±Óøÿÿÿÿ
+B
+java:S1481-"-Remove this unused "employee" local variable.(ÃÎìg
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(×Œêúÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(Û®ŞŠ
